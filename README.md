@@ -20,7 +20,7 @@ Support data-driven strategic decision-making
 5. Interactive Dashboard Design
 
 # Key Insights
-Revenue Performance
+-Revenue Performance
 Generated total revenue of ₹987M across all markets.
 Achieved sales volume of 2.43 million units.
 Recorded total profit of ₹24.7M.

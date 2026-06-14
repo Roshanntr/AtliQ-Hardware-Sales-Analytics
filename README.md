@@ -13,11 +13,11 @@ Discover growth opportunities and operational challenges
 Support data-driven strategic decision-making
 
 # Tools & Technologies
-Power BI Desktop
-Power Query (ETL & Data Transformation)
-DAX (Data Analysis Expressions)
-Data Modeling
-Interactive Dashboard Design
+1. Power BI Desktop
+2. Power Query (ETL & Data Transformation)
+3. DAX (Data Analysis Expressions)
+4. Data Modeling
+5. Interactive Dashboard Design
 
 # Key Insights
 Revenue Performance
